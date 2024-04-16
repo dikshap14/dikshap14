@@ -6,8 +6,8 @@ Feel free to follow my GitHub profile or to contact me on [LinkedIn](https://www
 
 - 🌳 Blockchain developer at [Wipro](https://www.wipro.com/) 
 - 💖 Passionate about learning new technologies
-- 💖 Self learned Artist [Artisian Fragrance](https://www.linkedin.com/in/dikshap14/)
-- 🦸🏼‍♂️ Co-Founder of  [Artisian Fragrance](https://www.linkedin.com/in/dikshap14/) 
+- 💖 Self learned Artist [Artisian Fragrance]()
+- 🦸🏼‍♂️ Co-Founder of  [Artisian Fragrance]() 
 - 🔥 5+ years as fullstack developer  
 - 🧪 Currently learning Blockchain    
 
